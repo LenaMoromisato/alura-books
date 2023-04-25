@@ -3,3 +3,6 @@
 > Status do projeto: em desenvolvimento
 
 Conteúdo do curso:
+
+* Callbacks; 
+* Fetch API.
