@@ -4,5 +4,9 @@
 
 Conteúdo do curso:
 
-* Callbacks; 
-* Fetch API.
+* Callbacks: funções que são passadas como parâmetros para outras funções; 
+* Consumir dados de uma API através do método **fetch**;
+* Acessar o valor retornado do fetch API com o método **then**;
+* Converter dados em JSON através do método **json**;
+* Lidar com possíveis erros com o método **catch**;
+* Enviar respostas independente do retorno com o método **finally**.
