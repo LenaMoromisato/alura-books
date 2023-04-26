@@ -1,6 +1,6 @@
 # Curso JavaScript: Consumindo e tratando dados de uma API (Alura e Programa Desenvolve da Boticário)
 
-> Status do projeto: em desenvolvimento
+> Status do projeto: concluído
 
 Conteúdo do curso:
 
@@ -9,8 +9,12 @@ Conteúdo do curso:
 * Acessar o valor retornado do fetch API com o método **then**;
 * Converter dados em JSON através do método **json**;
 * Lidar com possíveis erros com o método **catch**;
-* Enviar respostas independente do retorno com o método **finally**.
+* Enviar respostas independente do retorno com o método **finally**;
 * Construir funções assíncronas com **async**;
 * Criar requisições com **await**;
 * Tratar erros com **try catch**;
-* Implementar várias requisições simultaneamente com **Promise All**.
+* Implementar várias requisições simultaneamente com **Promise All**;
+* Selecionar elementos pelo seu ID através do **getElementById**;
+* Incluir valores em elementos com a propriedade **value**;
+* Detectar interação do usuário com auxílio do **addEventListener**;
+* Inserir elementos HTML a partir do **innerHTML**.
